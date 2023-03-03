@@ -9,4 +9,10 @@
 
 ### 国外
 * [GhostProject](https://ghostproject.fr/)
+* [DeHashed](https://www.dehashed.com/)
 
+### 已跑路
+* @FreeSGKBot（红鼻子）
+* @DuteSGKBot（独特）
+* @KernelBugXBot（综合渗透）
+* @bailansgbot（摆烂）
