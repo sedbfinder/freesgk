@@ -5,6 +5,7 @@
 ### 国内
 * [SGKmain](https://t.me/SGKmainNEWbot?start=IVT51DBC530)
 * [DATA007](https://t.me/DATA_007bot?start=6925f68521)
+* [AISGK](http://t.me/aishegongkubot?start=AISGK_KPJUQCS1) （疑似为TMDSGK复活）
 
 ### 国外
 * [GhostProject](https://ghostproject.fr/)
